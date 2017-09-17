@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:orientation="vertical" android:background="0x106000b" android:padding="8dp" android:layout_width="match_parent" android:layout_height="wrap_content">
+    <TextView android:id="@+id/lblListHeader" android:background="0x106000b" android:paddingLeft="?unknown_attr_ref: 101004e" android:layout_width="match_parent" android:layout_height="wrap_content" />
+</LinearLayout>
